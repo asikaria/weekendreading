@@ -7,5 +7,7 @@ For example, to fetch to docs/index.html, run
 `./fetch.sh > docs/index.html`
 
 
+Or, to see the ready-made list, just go to https://asikaria.github.io/weekendreading/
+
 
 
